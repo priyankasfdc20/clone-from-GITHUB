@@ -1,1 +1,1 @@
-# clone-from-GITHUB
+# clone-from-GITHUB welcome to priya prj, using fetch ,commit,sync commands 
